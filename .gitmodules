@@ -1,0 +1,3 @@
+[submodule "client/common"]
+	path = client/common
+	url = git@github.com:rasmusstorjohann-AI/Common.git
